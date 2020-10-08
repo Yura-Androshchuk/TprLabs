@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\bin\Debug\netcoreapp3.1\TPRLab2.exe
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\bin\Debug\netcoreapp3.1\TPRLab2.deps.json
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\bin\Debug\netcoreapp3.1\TPRLab2.runtimeconfig.json
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\bin\Debug\netcoreapp3.1\TPRLab2.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\bin\Debug\netcoreapp3.1\TPRLab2.dll
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\bin\Debug\netcoreapp3.1\TPRLab2.pdb
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.dll
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.pdb
+C:\Users\Asus\source\repos\TPRLab2\TPRLab2\obj\Debug\netcoreapp3.1\TPRLab2.genruntimeconfig.cache
